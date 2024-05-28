@@ -18,9 +18,9 @@ Here, we were exited to share our educational project with you!
 :fork_and_knife: Generate Meal Recommendation
 
 ## Project Flow
-:fork_and_knife: Think of the flow of the whole management system
+:fork_and_knife: Think of the flow of the whole management system 🤔
 
-:fork_and_knife: Create a flowchart https://github.com/SiewSui/Restaurant-Management-System/assets/137494496/7b8340a4-a510-4da9-99bf-5acd37199873
+:fork_and_knife: Create a flowchart ⏳
 
 :fork_and_knife: Start Coding!💻
 
