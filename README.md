@@ -1,5 +1,5 @@
 # 🦦Hello and Welcome!🦦
-Here, my groupmates and I were exited to share our educational project with you!
+Here, my groupmates and I were excited to share our educational project with you!
 
 ## Let's look into the scenario:
 
